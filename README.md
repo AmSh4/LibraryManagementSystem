@@ -17,23 +17,24 @@ The Library Management System is a console-based Java application designed to ma
 - **Data Storage**: CSV files
 
 ## Project Structure
+    ```
+    LibraryManagementSystem/
+    ├── src/
+    │   ├── model/
+    │   │   ├── Book.java
+    │   │   ├── User.java
+    │   │   ├── Transaction.java
+    │   ├── service/
+    │   │   ├── LibraryService.java
+    │   │   ├── FileHandler.java
+    │   ├── Main.java
+    ├── data/
+    │   ├── books.csv
+    │   ├── users.csv
+    │   ├── transactions.csv
+    ├── README.md
 
-LibraryManagementSystem/
-├── src/
-│   ├── model/
-│   │   ├── Book.java
-│   │   ├── User.java
-│   │   ├── Transaction.java
-│   ├── service/
-│   │   ├── LibraryService.java
-│   │   ├── FileHandler.java
-│   ├── Main.java
-├── data/
-│   ├── books.csv
-│   ├── users.csv
-│   ├── transactions.csv
-├── README.md
-
+   
 
 ## Setup Instructions
 1. **Clone the Repository**:
