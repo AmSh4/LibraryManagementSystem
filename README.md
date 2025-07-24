@@ -17,7 +17,7 @@ The Library Management System is a console-based Java application designed to ma
 - **Data Storage**: CSV files
 
 ## Project Structure
-    ```
+    
     LibraryManagementSystem/
     ├── src/
     │   ├── model/
