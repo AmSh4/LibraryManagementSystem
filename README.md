@@ -75,4 +75,4 @@ Add user authentication and role-based access (e.g., admin vs. user).
 Generate detailed reports (e.g., overdue books).
 
 ## License
-This project is licensed under the MIT License
+MIT License
